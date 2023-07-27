@@ -1,0 +1,10 @@
+
+
+
+body{
+    background: linear-gradient(180deg,blue,gold,blue);
+    height: 100vh;
+}
+.Titulo{
+    font-family: 'Lilita One', cursive;
+}
